@@ -1,4 +1,4 @@
-## Hola, soy María Luisa 👋
+## Hola, soy María Luisa 😄
 
 ## Info:
 * **Email:** 📫 18mluisarc@gmail.com
@@ -9,6 +9,6 @@
 * Soy una persona con muchas ganas de aprender y vivir nuevas experiencias.
 * Gran interés en las tecnologías informáticas y el diseño.
 * Me encanta trabajar en equipo y poner siempre mi granito de arena.
-* Amo la playa y hacer vida en familia 😄✨
+* Amo la playa y hacer vida en familia ✨
 
  
