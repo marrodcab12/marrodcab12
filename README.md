@@ -1,6 +1,6 @@
 ## Hola, soy María Luisa 😄
-# Finalizando la carrera de **Ingeniería Informática, Tencologías Informáticas.** 
-# Iniciándome en el mundo laboral y con muchas ganas de seguir aprendiendo y formándome lo máximo posible.
+#### Finalizando la carrera de **Ingeniería Informática, Tencologías Informáticas.** 
+Dando comienzo a mi vida laboral y con muchas ganas de seguir aprendiendo y formándome lo máximo posible.
 
 ## Info:
 * **Email:** 📫 18mluisarc@gmail.com
