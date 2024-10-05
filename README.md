@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hola, soy María Luisa 👋
 
-<!--
-**marrodcab12/marrodcab12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Info:
+* **Email:** 📫 18mluisarc@gmail.com
+* **LinkedIn:** 💬 [https://www.linkedin.com/in/maria-luisa-rodriguez-cabrera-412018294/](https://www.linkedin.com/in/maria-luisa-rodriguez-cabrera-412018294/)
 
-Here are some ideas to get you started:
+## Sobre mí:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Soy una persona con muchas ganas de aprender y vivir nuevas experiencias.
+* Gran interés en las tecnologías informáticas y el diseño.
+* Me encanta trabajar en equipo y poner siempre mi granito de arena.
+* Amo la playa y hacer vida en familia 😄✨
+
+ 
