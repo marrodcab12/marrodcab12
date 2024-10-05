@@ -16,7 +16,7 @@ Dando comienzo a mi vida laboral y con muchas ganas de seguir aprendiendo y form
 
 ## Sobre mí:
 
-* Gran interés en las tecnologías informáticas y el diseño.
+* Gran interés en las nuevas tecnologías y el diseño.
 * Me encanta trabajar en equipo y poner siempre mi granito de arena.
 * Amo la playa y hacer vida en familia ✨
 
