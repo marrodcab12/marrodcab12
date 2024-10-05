@@ -1,4 +1,5 @@
 ## Hola, soy María Luisa 😄
+Graduada en Ingeniería Informática y comenzando mi vida profesional. Tengo muchas ganas de seguir aprendiendo y formándome lo máximo posible.
 
 ## Info:
 * **Email:** 📫 18mluisarc@gmail.com
