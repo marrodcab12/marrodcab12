@@ -2,7 +2,7 @@
 
 ## Info:
 * **Email:** 📫 18mluisarc@gmail.com
-* **LinkedIn:** 💬 [https://www.linkedin.com/in/maria-luisa-rodriguez-cabrera-412018294/](https://www.linkedin.com/in/maria-luisa-rodriguez-cabrera-412018294/)
+* **LinkedIn:** 💬 [https://www.linkedin.com/in/maria-luisa-rodriguez-cabrera-412018294/](https://www.linkedin.com/in/maria-luisa-rodriguez-cabrera/)
 
 ## Sobre mí:
 
