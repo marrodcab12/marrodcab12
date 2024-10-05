@@ -17,7 +17,6 @@ Dando comienzo a mi vida laboral y con muchas ganas de seguir aprendiendo y form
 
 ## Sobre mí:
 
-* Soy una persona con muchas ganas de aprender y vivir nuevas experiencias.
 * Gran interés en las tecnologías informáticas y el diseño.
 * Me encanta trabajar en equipo y poner siempre mi granito de arena.
 * Amo la playa y hacer vida en familia ✨
