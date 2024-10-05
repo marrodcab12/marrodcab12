@@ -11,4 +11,12 @@
 * Me encanta trabajar en equipo y poner siempre mi granito de arena.
 * Amo la playa y hacer vida en familia ✨
 
- 
+
+## Tecnologías:
+
+* Python 
+* Java
+* JavaScript
+* C#
+* HTML / CSS
+* Git
