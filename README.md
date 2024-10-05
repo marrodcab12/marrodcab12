@@ -14,8 +14,8 @@
 
 ## Tecnologías:
 
-* Python 
-* Java
+* Python 🐍
+* Java ☕
 * JavaScript
 * C#
 * HTML / CSS
